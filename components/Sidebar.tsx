@@ -22,6 +22,9 @@ function Sidebar() {
       <SidebarRow Icon={MailIcon} title="Messages" />
       <SidebarRow Icon={BookmarkIcon} title="Bookmarks" />
       <SidebarRow Icon={CollectionIcon} title="Lists" />
+      <SidebarRow Icon={CollectionIcon} title="Lists" />
+      <SidebarRow Icon={CollectionIcon} title="Lists" />
+
     </div>
   )
 }
